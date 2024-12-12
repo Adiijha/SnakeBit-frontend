@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import Choice from './components/Choice';
 import Config from './components/singleplayer/Config';
-import Play from './components/singlePlayer/Play';
+import Play from './components/singleplayer/Play.jsx';
 
 function App() {
   return (
